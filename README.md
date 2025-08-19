@@ -1,2 +1,2 @@
-Make your are here!
+Create your art here!
 https://crlbien.github.io/odin-etch-a-sketch/
